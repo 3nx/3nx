@@ -1,4 +1,4 @@
-- 👋 Hey, I'm proxy
+- 👋 Hey, I'm starboard
 - 🧩 I'm interested in front-end development
 - 🧠 I'm currently learning JavaScript
 - 📧 You can contact me via [discord](https://discord.com) at proxy#0001 
