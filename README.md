@@ -1,7 +1,4 @@
-- 👋 Hey, I'm starboard
-- 🧩 I'm interested in front-end development
-- 🧠 I'm currently learning JavaScript
-- 📧 You can contact me via [discord](https://discord.com) at proxy#0001 
+Hey! I'm star, an aspiring web developer from the UK. I don't really do much, but any of my projects will be listed here! :}
 
 <!---
 6oot/6oot is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
